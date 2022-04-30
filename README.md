@@ -1,6 +1,6 @@
 ### Olá, Mundo! 🖖🏼
 
-- 🌱 Aprendendo Python
+- 🐍 Aprendendo Python
 - 😍 Apaixonado por Games
 - 🤘🏼 Metal
 - 🇧🇷 Brasileiro 
