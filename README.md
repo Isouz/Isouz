@@ -1,9 +1,10 @@
 ### Olá, Mundo! 🖖🏼
 
 - 🐍 Aprendendo Python
-- 😍 Apaixonado por Games
+- 🕹️ Apaixonado por Games
 - 🤘🏼 Metal
 - 🇧🇷 Brasileiro 
+- 1️⃣Jogador nº 1
 
 <div align="center">
   <a href="https://github.com/Isouz">
