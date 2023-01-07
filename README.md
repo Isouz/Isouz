@@ -1,8 +1,8 @@
 ### Olá, Mundo! 🖖🏼
 
 - 🐍 Aprendendo Python
+- JS Aprendendo JavaScript
 - 🕹️ Apaixonado por Games
-- 🤘🏼 Metal
 - 🇧🇷 Brasileiro 
 - 1️⃣Jogador nº 1
 
