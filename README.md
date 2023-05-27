@@ -1,7 +1,6 @@
 ### Olá, Mundo! 🖖🏼
 
 - 🐍 Aprendendo Python
-- JS Aprendendo JavaScript
 - 🕹️ Apaixonado por Games
 - 🇧🇷 Brasileiro 
 - 1️⃣Jogador nº 1
