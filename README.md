@@ -1,5 +1,6 @@
 ### Olá, Mundo! 🖖🏼
 
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP
 - 🐍 Aprendendo Python
 - 🕹️ Apaixonado por Games
 - 🇧🇷 Brasileiro 
