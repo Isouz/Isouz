@@ -34,3 +34,10 @@
 </div>
 
 ![Snake animation](https://github.com/Isouz/Isouz/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+<div align="center">
+  <img src="https://github.com/Isouz/Isouz/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+  <img src="https://github.com/Isouz/Isouz/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+</div>
+<br>
