@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP
 - 🐍 Aprendendo Python
-- 🕹️ Apaixonado por Games
+- ☕ Aprendendo Java
 - 🇧🇷 Brasileiro 
 - 1️⃣Jogador nº 1
 
