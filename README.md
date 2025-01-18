@@ -4,7 +4,7 @@
 - 🐍 Aprendendo Python
 - ☕ Aprendendo Java
 - 🇧🇷 Brasileiro 
-- 1️⃣Jogador nº 1
+- 1️⃣ Jogador nº 1
 
 <div align="center">
   <a href="https://github.com/Isouz">
