@@ -1,10 +1,8 @@
 ### Olá, Mundo! 🖖🏼
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNIP
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🐍 Aprendendo Python
 - ☕ Aprendendo Java
-- 🇧🇷 Brasileiro 
-- 1️⃣ Jogador nº 1
 
 <div align="center">
   <a href="https://github.com/Isouz">
